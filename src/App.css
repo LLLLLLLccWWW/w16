@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.video-react {
+  max-width: 100%;
+}
+
+.Player {
+  width: 600px !important;
+  height: 400px !important;
+}
